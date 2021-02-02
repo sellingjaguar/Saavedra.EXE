@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Diogo\Desktop\notepad++\Notepad\Notepad\main.cpp(100): warning C4715: 'GetModuleBaseAddress': not all control paths return a value
+  Notepad.vcxproj -> C:\Users\Diogo\Desktop\notepad++\Notepad\Debug\Notepad.exe
