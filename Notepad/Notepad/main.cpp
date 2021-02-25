@@ -75,7 +75,7 @@ int molotov = 46;
 int decoy = 47;
 int incendiary = 48;
 
-//other shit
+//other stuff
 int zeus = 31;
 int knife_T = 59;
 int knife_CT = 42;
